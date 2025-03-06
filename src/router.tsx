@@ -7,7 +7,7 @@ import HomeView from './views/HomeView';
 export default function Router() {
 
     return (
-        <BrowserRouter>
+        <BrowserRouter basename='/my-portfolio'>
             <Routes>
                 <Route element={<MainLayout />}>
                     <Route path='/' element={<HomeView />} />
