@@ -1,0 +1,61 @@
+body{
+  background-color: yellowgreen;
+}
+.image-header{
+  cursor: pointer;
+}
+
+.navbar-options{
+  list-style: none;
+  justify-content: space-around;
+}
+
+.navbar-options li{
+  cursor: pointer;
+}
+
+.header-navigation{
+  max-width: 100%;
+  margin: auto 10px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: yellowgreen;
+}
+
+.navbar-options li.active {
+  font-weight: bold;
+  color: #007bff; 
+}
+
+.photo-profile{
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.2); /* Sombra externa para simular un marco */
+  border-radius: 10px;
+}
+
+.info-experience-job{
+  border: black solid 2px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  max-width: 600px;
+}
+
+
+.info-experience-job:hover{
+  background-color: white;
+}
+
+.skills-list li{
+  list-style: none;
+  margin-top: 5px;
+}
+
+.certifications-list li{
+  list-style: lower-greek;
+}
+
+.certifications,.skills{
+  margin: 30px auto;
+}
