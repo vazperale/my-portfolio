@@ -42,7 +42,7 @@ export default function experienceView() {
                     </ul>
                     <p><strong>Technologies:</strong> Javascript, Html, CSS, Filezilla</p>
                 </div>
-                <a href="/AlexVazquez_CV.pdf" download="AlexVazquez_CV.pdf" className="btn btn-info mb-4">
+                <a href="experience/AlexVazquez_CV.pdf" download="AlexVazquez_CV.pdf" className="btn btn-info mb-4">
                     Descargar CV
                 </a>
             </div>
