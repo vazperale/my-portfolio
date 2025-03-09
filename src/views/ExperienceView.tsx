@@ -3,8 +3,8 @@ export default function experienceView() {
 
     useEffect(() => {
         document.title = "Experience - My Portfolio";
-      }, []);
-      
+    }, []);
+
     return (
         <>
             <div className="info-experience d-flex flex-column align-items-center w-75 m-auto">
@@ -42,8 +42,8 @@ export default function experienceView() {
                     </ul>
                     <p><strong>Technologies:</strong> Javascript, Html, CSS, Filezilla</p>
                 </div>
-                <a href="/AlexVazquez_CV.pdf" download className="btn btn-info mb-4">
-                    Download CV
+                <a href="/AlexVazquez_CV.pdf" download="AlexVazquez_CV.pdf" className="btn btn-info mb-4">
+                    Descargar CV
                 </a>
             </div>
         </>
