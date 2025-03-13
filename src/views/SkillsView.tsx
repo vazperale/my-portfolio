@@ -17,10 +17,14 @@ export default function SkillsView() {
     { name: 'Angular', category: ['Frontend'], level: '1 year experience' },
     { name: 'Docker', category: ['Tools'], level: '2 years experience + own projects creating db, playing servers...' },
     { name: 'Jenkins', category: ['Tools'], level: '2 years experience' },
+    { name: 'Jest', category: ['Tools'], level: '1 year experience' },
     { name: 'PHP', category: ['Backend'], level: 'a couple of months' },
     { name: 'Python', category: ['Backend'], level: 'Basic knowledge' },
     { name: 'Java', category: ['Frontend', 'Backend'], level: 'Basic knowledge' },
     { name: 'Salesforce enviroment', category: ['Tools'], level: '3 years experience' },
+    { name: 'Agile scrum methodology', category: ['Tools'], level: '2.5 years experience' },
+    { name: 'Jira', category: ['Tools'], level: '2.5 years experience' },
+    { name: 'Confluence', category: ['Tools'], level: '3 years experience' },
   ];
 
   const certifications=[
