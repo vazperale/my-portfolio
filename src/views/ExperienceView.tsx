@@ -26,10 +26,10 @@ export default function experienceView() {
                     <strong>March 2021 - July 2022</strong>
                     <ul>
                         <li>Angular app migration to React about solar panels and support it with new features,fixes...</li>
-                        <li>Management the Api with Node to connect with react app, and with a app that send solar panels data for show in the app</li>
+                        <li>Management the Api with Node/Nest to connect with react app, and with a app that send solar panels data for show in the app</li>
                         <li>Suppor the apps the best way to try to win more clients, and show them the correct information of their solar panels</li>
                     </ul>
-                    <p><strong>Technologies:</strong> React, Typescript, CSS, Node, Git, Jenkins, Docker, Postgres</p>
+                    <p><strong>Technologies:</strong> React, Typescript, CSS, Node, Git, Jenkins, Docker, Postgres,Nest</p>
                 </div>
                 <div className="info-experience-job">
                     <h3>FrontEnd Developer</h3>

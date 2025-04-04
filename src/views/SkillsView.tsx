@@ -12,19 +12,21 @@ export default function SkillsView() {
     { name: 'Html,Css', category: ['Frontend'], level: '5 years experience' },
     { name: 'Typescript', category: ['Frontend', 'Backend'], level: '2 years experience + own projects in github' },
     { name: 'Postgres and DBs', category: ['Backend'], level: '2 years experience' },
-    { name: 'Nest', category: ['Backend'], level: 'couple of months, learning with own projects and courses' },
+    { name: 'Nest', category: ['Backend'], level: '1 year, learning with own projects and courses' },
     { name: 'Next', category: ['Frontend'], level: 'couple of months, learning with own projects and courses' },
     { name: 'Angular', category: ['Frontend'], level: '1 year experience' },
     { name: 'Docker', category: ['Tools'], level: '2 years experience + own projects creating db, playing servers...' },
     { name: 'Jenkins', category: ['Tools'], level: '2 years experience' },
     { name: 'Jest', category: ['Tools'], level: '1 year experience' },
-    { name: 'PHP', category: ['Backend'], level: 'a couple of months' },
+    { name: 'PHP', category: ['Backend'], level: '1 year' },
     { name: 'Python', category: ['Backend'], level: 'Basic knowledge' },
     { name: 'Java', category: ['Frontend', 'Backend'], level: 'Basic knowledge' },
     { name: 'Salesforce enviroment', category: ['Tools'], level: '3 years experience' },
+    { name: 'LWC & APEX', category: ['Tools'], level: 'couple of month of experiencia,trailhead badges,exercises...' },
     { name: 'Agile scrum methodology', category: ['Tools'], level: '2.5 years experience' },
     { name: 'Jira', category: ['Tools'], level: '2.5 years experience' },
     { name: 'Confluence', category: ['Tools'], level: '3 years experience' },
+    { name: 'AWS', category: ['Tools'], level: 'a couple of weeks /stuying for certifications' },
   ];
 
   const certifications=[
